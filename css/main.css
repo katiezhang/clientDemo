@@ -1,0 +1,40 @@
+/* all */
+body{
+    padding: 0;
+    margin: 0;
+}
+
+/* header */
+#header{
+    border-bottom: 1px solid #6a6a6a;
+}
+/* header search */
+#header form{
+    display: inline-block;
+    margin: 5px;
+}
+#header-search{
+    display: inline-block;
+    width: 60%;
+}
+#header .btn-header-search{
+    display: inline-block;
+}
+/* header add */
+#header .btn-header-add{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+/* table */
+/* table head */
+table thead{
+    background: #2d3c4d;
+    color: #ffffff
+}
+/* table body */
+
+
+/* table button */
+
+

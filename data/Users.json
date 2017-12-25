@@ -1,0 +1,247 @@
+[
+  {
+    "id": "73b9e3b6-b300-46af-98b9-e21a65be4303",
+    "name": "WhitelineUser",
+    "token": "WhitelineUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "6742170e-920d-4b29-9350-02ab28323992",
+    "name": "LocatorUser",
+    "token": "LocatorUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "ce15b36d-5b45-4219-a8b0-db584ceeec19",
+    "name": "ConstructionUser",
+    "token": "ConstructionUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "9de95a1a-f2fb-4803-9179-b1b8b019bbc7",
+    "name": "SuperProductUser",
+    "token": "SuperProductUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "c8ce4cb9-d0bb-4829-8b13-5a1286d95110",
+    "name": "XcelEnergy",
+    "token": "XcelEnergy",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "7dac60e1-8f37-4706-8f24-3c2653b892ab",
+    "name": "CCG",
+    "token": "CCG",
+    "password": "123456",
+    "description": "Demo CCG normal user"
+  },
+  {
+    "id": "ddbb88cd-3501-479d-9272-b0e6e015dd64",
+    "name": "CCGAdmin",
+    "token": "CCGAdmin",
+    "password": "67890",
+    "description": "Demo CCG administrator user"
+  },
+  {
+    "id": "ccd5e3a8-f875-491f-afd8-232b17bc2874",
+    "name": "WGClerk",
+    "token": "WGClerk",
+    "password": "WG123456",
+    "description": "CCG Willow Grove normal user"
+  },
+  {
+    "id": "d22d6ad6-d425-420b-a141-db081a7c3245",
+    "name": "WGSupervisor",
+    "token": "WGSupervisor",
+    "password": "WG67890",
+    "description": "CCG Willow Grove administrator user"
+  },
+  {
+    "id": "02a12470-d4d8-422b-a733-f6575d6775e4",
+    "name": "CCDemoUser",
+    "token": "CCDemoUser",
+    "password": "CC123456",
+    "description": "Comcast HQ demo normal user"
+  },
+  {
+    "id": "f23e2dc4-ded3-4e38-a967-16ae3b5b7fcf",
+    "name": "CCDemoSup",
+    "token": "CCDemoSup",
+    "password": "CC67890",
+    "description": "Comcast HQ demo administrator user"
+  },
+  {
+    "id": "aa581472-d34c-47c2-a077-34b1b4f85487",
+    "name": "DCVUser",
+    "token": "DCVUser",
+    "password": "123456",
+    "description": "DCVUser user"
+  },
+  {
+    "id": "273ac9cb-83ba-47c4-a7a0-64a8178c896f",
+    "name": "LTSupervisor",
+    "token": "LTSupervisor",
+    "password": "123456",
+    "description": "The Supervisor for Levittown"
+  },
+  {
+    "id": "8a37cae9-8fd2-4a2b-927a-166914fe0f4c",
+    "name": "LTClerk",
+    "token": "LTClerk",
+    "password": "123456",
+    "description": "Clerk For Levittown"
+  },
+  {
+    "id": "5b28b38a-5fcc-4e70-ba9e-5844f6e7eed3",
+    "name": "ErvinEabUser",
+    "token": "Ervin-EAB",
+    "password": "123456",
+    "description": "Ervin-EAB normal user"
+  },
+  {
+    "id": "54383e64-3d7d-452b-9d8f-f15ce02f0965",
+    "name": "ErvinEabAdmin",
+    "token": "ErvinEabAdmin",
+    "password": "123456",
+    "description": "Ervin Eab Admin"
+  },
+  {
+    "id": "2a829580-2b0d-4139-8361-eabbe4cd01a3",
+    "name": "jwertz",
+    "token": "Jeff Wertz",
+    "password": "jw123456!",
+    "description": "CCG Willow Grove normal user"
+  },
+  {
+    "id": "11bb6ae0-b9b0-4983-9723-2f475f467c94",
+    "name": "bearle-lt",
+    "token": "Bill Earle It",
+    "password": "be6xbdzkmcp8",
+    "description": "CCG Levittown administrator user"
+  },
+  {
+    "id": "c1e978f6-740a-47cb-8c30-286496613449",
+    "name": "axhepa-lt",
+    "token": "Arjeta Xhepa It",
+    "password": "ax3sbnbtcp2u",
+    "description": "CCG Levittown normal user"
+  },
+  {
+    "id": "e27b2185-50d1-479e-9c31-742bb173ac14",
+    "name": "awright-lt",
+    "token": "Alisha Wright It",
+    "password": "aw947que1xtu",
+    "description": "CCG Levittown normal user"
+  },
+  {
+    "id": "c4624a99-99d9-4faa-a72f-d2fdc74becc2",
+    "name": "jrhynard-lt",
+    "token": "Jason Rhynard It",
+    "password": "jr2lsv2rttj7",
+    "description": "CCG Levittown administrator user"
+  },
+  {
+    "id": "03d429e7-bf00-419b-8f8e-1eb30a0db512",
+    "name": "jwertz-lt",
+    "token": "Jeff Wertz It",
+    "password": "jw123456!",
+    "description": "CCG Levittown normal user"
+  },
+  {
+    "id": "6120c8ac-45c4-429a-85e6-b28caa244112",
+    "name": "tanela-lt",
+    "token": "Toni Anela It",
+    "password": "ta6shjb13ff5",
+    "description": "CCG Levittown normal user"
+  },
+  {
+    "id": "9170f94f-4d32-4e02-a7b3-188a81987001",
+    "name": "PrinceComILUser",
+    "token": "PrinceComILUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "f2da9cd9-1292-4fd7-adea-078797a8032d",
+    "name": "CableComUser",
+    "token": "CableComUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "66399c81-1ddb-42d1-b877-d111895f748a",
+    "name": "ErvinSAUser",
+    "token": "ErvinSAUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "d0051637-83f1-4607-bcf2-e51863297228",
+    "name": "ErvinKCUser",
+    "token": "ErvinKCUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "f2b5733b-b3e5-442f-8b74-9520473d8526",
+    "name": "ErvinNTUser",
+    "token": "ErvinNTUser",
+    "password": "123456",
+    "description": "Normal user"
+  },
+  {
+    "id": "f0badbb8-fee2-4bc0-00ea-ceac0022bcdc",
+    "name": "tanela",
+    "token": "Toni Anela",
+    "password": "ta6shjb13ff5",
+    "description": "CCG Willow Grove normal user"
+  },
+  {
+    "id": "f6b2c2f4-47c8-4974-d8ba-9dcad4b0e4f5",
+    "name": "awright",
+    "token": "Alisha Wright",
+    "password": "aw947que1xtu",
+    "description": "CCG Willow Grove normal user"
+  },
+  {
+    "id": "faba017a-9539-4b10-6978-0167729f13bc",
+    "name": "axhepa",
+    "token": "Arjeta Xhepa",
+    "password": "ax3sbnbtcp2u",
+    "description": "CCG Willow Grove normal user"
+  },
+  {
+    "id": "cadab6c0-b670-4667-7c6e-7bce46b34948",
+    "name": "jrhynard",
+    "token": "Jason Rhynard",
+    "password": "jr2lsv2rttj7",
+    "description": "CCG Willow Grove administrator user"
+  },
+  {
+    "id": "6d110e52-6701-4f08-8d48-87a304b0a719",
+    "name": "bearle",
+    "token": "Bill Earle",
+    "password": "be6xbdzkmcp8",
+    "description": "CCG Willow Grove administrator user"
+  },
+  {
+    "id": "95d49ef3-894b-4d3e-9559-304ae8bcd38e",
+    "name": "ATSupervisor",
+    "token": "ATSupervisor",
+    "password": "123456",
+    "description": "The Supervisor for Arlington"
+  },
+  {
+    "id": "c7b79267-718c-454f-a6f0-61d12d22aaac",
+    "name": "ATClerk",
+    "token": "ATClerk",
+    "password": "123456",
+    "description": "The Clerk for Arlington"
+  }
+]
