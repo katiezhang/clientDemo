@@ -1,18 +1,15 @@
 import React from 'react';
-import { Modal } from 'react-bootstrap';
-import { Button } from 'react-bootstrap';
-import { Popover } from 'react-bootstrap';
-import { Tooltip } from 'react-bootstrap';
-import { OverlayTrigger } from 'react-bootstrap';
+import { Modal, Popover, Tooltip, OverlayTrigger } from 'react-bootstrap';
+import  FormPanel  from './FormPanel';
+import { Form, FormGroup, Col, FormControl, Checkbox, Button } from 'react-bootstrap';
+
 
 export default class ModalBox extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
-    //console.log(this,this.hasOwnProperty('state'));    
-    this.setState({ showModal: false });
-    //this.state.showModal=false;
-    console.log(this);
+    // this.setState({ showModal: false });
+    this.state.showModal=false;
     this.close = this.close.bind(this);
     this.open = this.open.bind(this);
   }
@@ -40,10 +37,20 @@ export default class ModalBox extends React.Component {
         </Button>
         <Modal show={this.state.showModal} onHide={this.close}>
           <Modal.Header closeButton>
-            <Modal.Title>Dialog Box</Modal.Title>
+            <Modal.Title>{this.props.title}</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-
+            {(() => {
+              if (this.props.body === '') {
+                {/* console.log(<FormPanel /> ) */ }
+                return (
+                  <FormPanel /> 
+                )                
+              } else {
+                return this.props.body
+              }
+            }
+            )()}
           </Modal.Body>
           <Modal.Footer>
             <Button onClick={this.close}>yes</Button>

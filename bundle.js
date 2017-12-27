@@ -38192,12 +38192,12 @@ var CreateTr = function (_React$Component) {
                         _react2.default.createElement(
                             'td',
                             null,
-                            _react2.default.createElement(_ModalBox2.default, { name: 'edit' })
+                            _react2.default.createElement(_ModalBox2.default, { name: 'edit', body: '', title: 'Edit' })
                         ),
                         _react2.default.createElement(
                             'td',
                             null,
-                            _react2.default.createElement(_ModalBox2.default, { name: 'delete' })
+                            _react2.default.createElement(_ModalBox2.default, { name: 'delete', body: 'Are you sure to delete this user?', title: 'Delete' })
                         )
                     );
                 })
@@ -38295,10 +38295,14 @@ var ModalBox = function (_React$Component) {
             _react2.default.createElement(
               _reactBootstrap.Modal.Title,
               null,
-              'Dialog Box'
+              this.props.title
             )
           ),
-          _react2.default.createElement(_reactBootstrap.Modal.Body, null),
+          _react2.default.createElement(
+            _reactBootstrap.Modal.Body,
+            null,
+            this.props.body
+          ),
           _react2.default.createElement(
             _reactBootstrap.Modal.Footer,
             null,

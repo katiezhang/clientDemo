@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from './component/Header';
-import CreateTable from './component/CreateTable'
+import CreateTable from './component/CreateTable';
+// import FormPanel from './component/FormPanel'
 // import { Button, Table } from 'react-bootstrap';
 // import { setInterval, Date } from 'core-js/library/web/timers';
 // import { element } from './C:/Users/katiezhang/AppData/Local/Microsoft/TypeScript/2.6/node_modules/@types/prop-types';
@@ -19,6 +20,10 @@ class CreatePage extends React.Component {
 
 ReactDOM.render(
     <CreatePage />, document.getElementById('app')
+    
 )
 
 
+// ReactDOM.render(
+//     <FormPanel />, document.getElementById('app')
+//   )

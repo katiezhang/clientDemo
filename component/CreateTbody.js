@@ -14,8 +14,8 @@ export default class CreateTr extends React.Component {
                         <td>{userData.token}</td>
                         <td>{userData.password}</td>
                         <td>{userData.description}</td>
-                        <td><ModalBox name='edit'/></td>
-                        <td><ModalBox name='delete'/></td>
+                        <td><ModalBox name='edit' body='' title='Edit'/></td>
+                        <td><ModalBox name='delete' body='Are you sure to delete this user?' title='Delete'/></td>
                     </tr>
                 )}
             </tbody>
